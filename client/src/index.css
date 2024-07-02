@@ -2,6 +2,25 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
-  background: rgb(242, 238, 238);
+body {
+  background-color: rgb(245, 244, 243);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+p,
+a,
+span,
+div {
+  font-weight: 400;
+}
+
+button {
+  font-weight: 500;
 }
